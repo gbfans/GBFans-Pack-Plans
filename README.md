@@ -1,2 +1,2 @@
-GBFans-Pack-Plans
+GBFans Pack Plans
 =================
